@@ -4,7 +4,7 @@ const App : React.FC = () => {
   return (
     <div className='mx-6'>App df
     <h1>husk
-      sdsd
+      sdsds
     </h1>
     </div>
   )
