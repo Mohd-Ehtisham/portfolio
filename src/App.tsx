@@ -1,9 +1,10 @@
-import React from 'react'
+import React from "react";
+import "./index.css";
 
-const App : React.FC = () => {
-  return (
-    <div className='mx-6'>App</div>
-  )
-}
+type Props = {};
 
-export default App
+const App: React.FC = (props: Props) => {
+  return <div className="text-red-500">App</div>;
+};
+
+export default App;
