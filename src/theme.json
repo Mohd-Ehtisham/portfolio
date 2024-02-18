@@ -1,0 +1,15 @@
+{
+  "token": {
+    "colorPrimary": "#01B6AD",
+    "colorBgLayout": "#F5F5F5"
+  },
+  "components": {
+    "Radio": {
+      "colorPrimary": "#01B6AD"
+    },
+    "Layout": {
+      "colorBgHeader": "#FFFFFF",
+      "colorBgLayout": "#FFFFFF"
+    }
+  }
+}
